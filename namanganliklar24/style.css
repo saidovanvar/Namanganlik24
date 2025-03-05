@@ -7,21 +7,18 @@
     text-decoration: none;
     font-family: 'Rubik', sans-serif;
 }
-
 .header {
     justify-content: center;
     margin: auto;
     background-color: #F6F6F9;
     padding-bottom: 25px;
 }
-
 .container {
     max-width: 1200px;
     margin: 0 auto;
     width: 100%;
     padding: 0 10px;
 }
-
 .header_logo_text {
     background-color: #1E96C8;
     color: white;
@@ -34,7 +31,6 @@
     padding: 10px;
     cursor: pointer;
 }
-
 .header__text {
     color: #295091;
     font-weight: 400;
@@ -42,22 +38,18 @@
     line-height: 18px;
     letter-spacing: 0;
 }
-
 .header__text_2 {
     margin-right: 20px;
     color: #797979;
 }
-
 .telegram_logo {
     width: 20px;
     height: 20px;
 
 }
-
 .header__text_2 {
     gap: 17px;
 }
-
 .header__social {
     display: flex;
     justify-content: space-between;
@@ -68,27 +60,23 @@
     color: #515151;
     padding: 25px;
 }
-
 .img____logo {
     max-width: 1200px;
     width: 100%;
     border: 1px solid black;
     margin-top: 18px;
 }
-
 .header-left {
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding-top: 40px;
 }
-
 .header_left_inner {
     display: flex;
     align-items: center;
     gap: 17px;
 }
-
 .burger_logo {
     display: none;
 }
@@ -97,7 +85,6 @@
     gap: 19px;
 
 }
-
 .virus_img_text {
     max-width: 232px;
     font-size: 20px;
@@ -105,13 +92,11 @@
     line-height: 23px;
 
 }
-
 .virus__img {
     max-width: 38px;
     width: 100%;
     height: 40px;
 }
-
 .number_1 {
     color: #E45C5D;
     font-weight: 500;
@@ -119,7 +104,6 @@
     line-height: 23px;
     letter-spacing: 0;
 }
-
 .number_2 {
     color: #13BA80;
     font-weight: 500;
@@ -128,7 +112,6 @@
     letter-spacing: 0;
 
 }
-
 .number_3 {
     color: #2E2E2E;
     font-weight: 500;
@@ -138,21 +121,18 @@
 
 
 }
-
 .virus_text {
     font-weight: 500;
     font-size: 20px;
     line-height: 21px;
     letter-spacing: 0;
 }
-
 .virus__text {
     font-weight: 500;
     font-size: 20px;
     line-height: 21px;
     letter-spacing: 0;
 }
-
 .virus___text {
     font-weight: 500;
     font-size: 20px;
@@ -163,13 +143,10 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    flex-wrap: wrap;
     gap: 20px;
     background-color: #F6F6F9   ;
     padding: 30px 35px;
     border-radius: 5px;
-
-
 }
 .virus_img_2{
     display: flex;
@@ -194,8 +171,6 @@
     height: 49px;
     background-color: #F4CCD1;
 }
-
-
 .middle{
     max-width: 100%;
     width: 100%;
@@ -225,7 +200,6 @@ width: 100%;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 20px;
 }
-
 .main_finish{
     background-color: #EFBA542E;
     padding: 28px 34px;
@@ -234,7 +208,6 @@ width: 100%;
     margin-top: 34px;
     flex-wrap: wrap;
     gap: 20px;
-
 }
 .finish_text{
   display: flex;
@@ -268,6 +241,16 @@ width: 100%;
     border-radius: 5px;
     flex-wrap: wrap;
 }
+.finish_btn{
+    background: linear-gradient(90deg, #FE5C28 0%, rgba(255, 139, 54, 0.9) 88.43%);
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+    font-size: 20px;
+    line-height: 23px;
+    font-weight: 500;
+    border: none;
+}
 .easy_text_1{
     font-weight: 500;
     font-size: 17px;
@@ -275,7 +258,6 @@ width: 100%;
     color: #202020;
     display: flex;
 }
-
 .easy_text_2{
     font-weight: 400;
     font-size: 15px;
@@ -284,11 +266,27 @@ width: 100%;
     margin-top: 8px;
 
 }
+.medium_1{
+    max-width: 346px;
+    width: 100%;
+    height: 4px;
+    background-color: #E4E4E4;
+    margin-top: 14px;
+}
 .easy_text_date{
     display: flex;
     color: #7688A4;
     margin-top: 11px;
 
+}
+.medium_text{
+    max-width: 386px;
+    width: 100%;
+    border-radius: 5px;
+    background-color: #F6F6F9;
+    padding: 18px 20px;
+    margin-top: 46px;
+    margin-left: 31px;
 }
 .main_easy{
     max-width: 789px;
@@ -300,26 +298,6 @@ width: 100%;
 .easy___text{
     display: flex;
     gap: 19px;
-}
-.easy_bottom{
-    display: flex;
-    color: #FFFFFF;
-    background-color: #295093;
-    padding: 10px 31px;
-    border-radius: 5px;
-    border: none;
-    margin:  18px auto;
-    cursor: pointer;
-
-}
-.medium_text{
-    max-width: 386px;
-    width: 100%;
-    border-radius: 5px;
-    background-color: #F6F6F9;
-    padding: 18px 20px;
-    margin-top: 46px;
-    margin-left: 31px;
 }
 .medium__text{
     font-weight: 500;
@@ -341,12 +319,15 @@ width: 100%;
     line-height: 16px;
     color: #7688A4;
 }
-.medium_1{
-    max-width: 346px;
-    width: 100%;
-    height: 4px;
-    background-color: #E4E4E4;
-    margin-top: 14px;
+
+.easy_bottom{
+    display: flex;
+    color: #FFFFFF;
+    background-color: #295093;
+    padding: 10px 31px;
+    cursor: pointer;
+    border-radius: 5px;
+    border: none;
 }
 .medium_img{
     border-radius: 5px;
@@ -356,47 +337,7 @@ width: 100%;
 .medium{
     display: flex;
 }
-.hard {
-    max-width: 1200px;
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    background: #F6F6F9;
-    border-radius: 5px;
-    margin-top: 38px;
-}
-.hard_img {
-   margin: 37px 19px;
-}
-.hard_big {
 
-}
-.hard__text {
-    font-weight: 500;
-    font-size: 18px;
-    line-height: 21px;
-    color: #295093;
-}
-.hard_text {
-    font-weight: 500;
-    font-size: 18px;
-    line-height: 21px;
-    color: #333333;
-    margin-top: 10px;
-    width: 515px;
-}
-.hard_logo{
-    border-radius: 5px;
-}
-.hard__button{
-    display: flex;
-    gap: 10px;
-    margin-right: 20px;
- }
-.hard__big{
-    margin-right: 2px;
-}
 @media screen and (max-width: 1015px) {
     .medium__1{
         display: none;
