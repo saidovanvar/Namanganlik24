@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: 'Rubik', sans-serif;
+    list-style: none;
+}
+.header {
+    justify-content: center;
+    margin: auto;
+    background-color: #F6F6F9;
+    padding-bottom: 25px;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    width: 100%;
+    padding: 0 10px;
+}
+.header_logo_text {
+    background-color: #1E96C8;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+.header__text {
+    color: #295091;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 100%;
+}
+.header__text_2 {
+
+    color: #797979;
+}
+.telegram_logo {
+    width: 20px;
+    height: 20px;
+
+}
+.header__text_2 {
+    gap: 17px;
+}
+.header__social {
+    display: flex;
+    justify-content: space-between;
+    background-color: #ffffffff;
+    gap: 24px;
+    margin-top: 49px;
+    flex-wrap: wrap;
+    color: #515151;
+    padding: 25px;
+}
+.img____logo {
+    max-width: 1200px;
+    width: 100%;
+    border: 1px solid black;
+    margin-top: 18px;
+}
+.header-left {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 40px;
+}
+.header_left_inner {
+    display: flex;
+    align-items: center;
+    gap: 17px;
+}
+.input{
+    padding: 14px 43px 12px 15px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 122px;
+    max-width: 145px;
+    width: 100%;
+}
+.form__search{
+    display: flex;
+    align-items: center;
+    gap: 14px;
+}
+.search_img{
+    padding: 8px 5px 8px 9px;
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+.rus{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 100%;
+}
+.header_py{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding: 11px 8px 9px 11px;
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+.header_right{
+    display: flex;
+    align-items: center;
+    gap: 23px;
+}

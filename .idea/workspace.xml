@@ -5,16 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b74bedd-d191-43ae-bd9e-6c0a98e3eb77" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/namanganliklar24/html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namanganliklar24/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/namanganliklar24.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/8d89790fc04af6ac0dfe97db84f28cb2 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/Group 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/Rectangle 21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/Rectangle 41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/Vector.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/appstore 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/bell-icon@2x.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/button.nav-list_nav__burger-btn__6_6p4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/cib_telegram@2x.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/cil_smile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/emoji 2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/emoji.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/googleplay 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/ic_outline-date-range.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/karantin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/nrg-banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/prezident.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/prokuror.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/sardoba.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/stop-karantin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/tez-yordam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namanganliklar24/img/8d89790fc04af6ac0dfe97db84f28cb2 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namanganliklar24/img/appstore 1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namanganliklar24/img/cib_telegram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namanganliklar24/img/googleplay 1 (1).svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/namanganliklar24/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/namanganliklar24/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/namanganliklar24/.idea/namanganliklar24.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/namanganliklar24/html" beforeDir="false" afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/namanganliklar24/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/namanganliklar24/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/namanganliklar24/main.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/namanganliklar24/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/namanganliklar24/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +60,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/evolution/namanganliklar24&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/evolution/namanganliklar24/namanganliklar24&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -47,6 +69,15 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\evolution\namanganliklar24\namanganliklar24" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\evolution\namanganliklar24\namanganliklar24\html_feli" />
+      <recent name="C:\evolution\namanganliklar24\namanganliklar24\img" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -69,7 +100,13 @@
       <workItem from="1740993549330" duration="3533000" />
       <workItem from="1741077794244" duration="1873000" />
       <workItem from="1741158267695" duration="306000" />
-      <workItem from="1741158581326" duration="1333000" />
+      <workItem from="1741158581326" duration="1970000" />
+      <workItem from="1741170409518" duration="1398000" />
+      <workItem from="1741260279361" duration="788000" />
+      <workItem from="1741858738185" duration="10217000" />
+      <workItem from="1741947394476" duration="136000" />
+      <workItem from="1742110869378" duration="5371000" />
+      <workItem from="1742138172769" duration="5727000" />
     </task>
     <servers />
   </component>
