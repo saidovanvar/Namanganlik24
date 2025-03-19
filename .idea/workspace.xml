@@ -4,40 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b74bedd-d191-43ae-bd9e-6c0a98e3eb77" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/8d89790fc04af6ac0dfe97db84f28cb2 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/Group 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/Rectangle 21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/Rectangle 41.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/Vector.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/appstore 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/bell-icon@2x.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/button.nav-list_nav__burger-btn__6_6p4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/cib_telegram@2x.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/cil_smile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/emoji 2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/emoji.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/googleplay 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/ic_outline-date-range.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/karantin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/nrg-banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/prezident.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/prokuror.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/sardoba.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/stop-karantin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/img/tez-yordam.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namanganliklar24/img/8d89790fc04af6ac0dfe97db84f28cb2 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namanganliklar24/img/appstore 1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namanganliklar24/img/cib_telegram.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namanganliklar24/img/googleplay 1 (1).svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="3f022ea2-8ed8-4c2f-b220-49be3230bd78" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/namanganliklar24/html" beforeDir="false" afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/namanganliklar24/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/namanganliklar24/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/namanganliklar24/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/namanganliklar24/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/namanganliklar24/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/namanganliklar24/html_feli/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/namanganliklar24/html_feli/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/namanganliklar24/html_feli/main.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +18,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 3
 }</component>
-  <component name="ProjectId" id="2tcrQUfoWkEmGiU8w33cI1oenEt" />
+  <component name="ProjectId" id="2uRUkLcCnNhWHFpmIkwS7m2IIdT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -60,7 +32,6 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/evolution/namanganliklar24/namanganliklar24&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -70,12 +41,8 @@
   }
 }</component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\evolution\namanganliklar24\namanganliklar24" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\evolution\namanganliklar24\namanganliklar24\html_feli" />
-      <recent name="C:\evolution\namanganliklar24\namanganliklar24\img" />
+      <recent name="C:\evolution\namanganliklar24\namanganliklar24\html_feli\img" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -88,25 +55,14 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7b74bedd-d191-43ae-bd9e-6c0a98e3eb77" name="Changes" comment="" />
-      <created>1740662188051</created>
+      <changelist id="3f022ea2-8ed8-4c2f-b220-49be3230bd78" name="Changes" comment="" />
+      <created>1742211021720</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1740662188051</updated>
-      <workItem from="1740662189145" duration="19000" />
-      <workItem from="1740723479353" duration="1675000" />
-      <workItem from="1740733157199" duration="2449000" />
-      <workItem from="1740825616320" duration="20000" />
-      <workItem from="1740993549330" duration="3533000" />
-      <workItem from="1741077794244" duration="1873000" />
-      <workItem from="1741158267695" duration="306000" />
-      <workItem from="1741158581326" duration="1970000" />
-      <workItem from="1741170409518" duration="1398000" />
-      <workItem from="1741260279361" duration="788000" />
-      <workItem from="1741858738185" duration="10217000" />
-      <workItem from="1741947394476" duration="136000" />
-      <workItem from="1742110869378" duration="5371000" />
-      <workItem from="1742138172769" duration="5727000" />
+      <updated>1742211021720</updated>
+      <workItem from="1742211022808" duration="5164000" />
+      <workItem from="1742292464147" duration="5849000" />
+      <workItem from="1742372583971" duration="5408000" />
     </task>
     <servers />
   </component>
